@@ -1,4 +1,4 @@
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=madaoCN&show_icons=true)]()&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madaoCN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=madaoCN&count_private=true?include_all_commits=true)]()&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madaoCN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **madaoCN/madaoCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
